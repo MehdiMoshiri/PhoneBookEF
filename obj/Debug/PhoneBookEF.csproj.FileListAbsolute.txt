@@ -1,0 +1,13 @@
+F:\Projects\C#\Me\PhoneBookEF\PhoneBookEF\bin\Debug\PhoneBookEF.exe.config
+F:\Projects\C#\Me\PhoneBookEF\PhoneBookEF\bin\Debug\PhoneBookEF.exe
+F:\Projects\C#\Me\PhoneBookEF\PhoneBookEF\bin\Debug\PhoneBookEF.pdb
+F:\Projects\C#\Me\PhoneBookEF\PhoneBookEF\bin\Debug\EntityFramework.dll
+F:\Projects\C#\Me\PhoneBookEF\PhoneBookEF\bin\Debug\EntityFramework.SqlServer.dll
+F:\Projects\C#\Me\PhoneBookEF\PhoneBookEF\bin\Debug\EntityFramework.xml
+F:\Projects\C#\Me\PhoneBookEF\PhoneBookEF\bin\Debug\EntityFramework.SqlServer.xml
+F:\Projects\C#\Me\PhoneBookEF\PhoneBookEF\obj\Debug\PhoneBookEF.csprojResolveAssemblyReference.cache
+F:\Projects\C#\Me\PhoneBookEF\PhoneBookEF\obj\Debug\PhoneBookEF.Form1.resources
+F:\Projects\C#\Me\PhoneBookEF\PhoneBookEF\obj\Debug\PhoneBookEF.Properties.Resources.resources
+F:\Projects\C#\Me\PhoneBookEF\PhoneBookEF\obj\Debug\PhoneBookEF.csproj.GenerateResource.Cache
+F:\Projects\C#\Me\PhoneBookEF\PhoneBookEF\obj\Debug\PhoneBookEF.exe
+F:\Projects\C#\Me\PhoneBookEF\PhoneBookEF\obj\Debug\PhoneBookEF.pdb
